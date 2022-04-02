@@ -1,0 +1,29 @@
+td {
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: cadetblue;
+  }
+  td:hover{
+      background-color: rgb(138, 171, 224);
+  }
+  h1{
+      text-align: center;
+      color: rgb(29, 31, 31);
+  }
+  #main{
+display: flex;
+justify-content: center;
+  }
+  button{
+      padding: 9px 20px;
+        border-radius: 4px;
+      background-color: teal;
+      border: transparent;
+      color: whitesmoke;
+      position: relative;
+      left: 47%;
+  }
+  button:hover{
+      background-color: rgb(87, 189, 189);
+  }
